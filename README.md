@@ -56,6 +56,7 @@ Sinta-se à vontade para contribuir com este projeto. Você pode abrir issues pa
 Se tiver alguma dúvida ou sugestão, entre em contato:
 
 Email: needslucas944@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/lucas-ferreira-55053412a/
 
 ### Licença
